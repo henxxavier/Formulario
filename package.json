@@ -1,0 +1,23 @@
+{
+  "name": "formulario-1",
+  "version": "1.0.0",
+  "description": "Formulario para entender os conceitos de mobile first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch style.scss ./assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henxxavier/Formulario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henxxavier/Formulario/issues"
+  },
+  "homepage": "https://github.com/henxxavier/Formulario#readme",
+  "dependencies": {
+    "material-design-icons": "^3.0.1"
+  }
+}
